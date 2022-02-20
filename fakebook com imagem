@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-pt" xmlns="">
+<head>
+    <meta charset="UTF-8">
+    <title>Fakebook</title>
+    <link rel="stylesheet" href="styling.css">
+    <style> table, th, td {
+  border:1px solid black;
+    }
+   </style>
+</head>
+<body>
+ <a  href="https://www.google.pt">
+     <h1 style="padding: 50px; margin: 50px;
+               border: black solid 10px;"> Perfil Carina</h1>
+ </a>
+ <p>Cidade: Guarda</p><br>
+ <p>Idade: 39</p><br>
+ <p>Responsável da Qualidade em: Indústria de Transformação de carnes</p><br>
+ <p> Tempos livres: Sair com os amigos; Caminhadas; Leitura</p>
+
+  <img src="https://thumbs.dreamstime.com/z/planta-das-flores-selvagens-no-fundo-da-natureza-do-ver%C3%A3o-ou-do-outono-bandeira-55976971.jpg" width="400px" height="150px">
+</body>
+</html>
